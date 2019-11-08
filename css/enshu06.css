@@ -1,9 +1,15 @@
 h1{
-    color:red;
+    color:darkorange;
     font-family:"impact";
+    text-align: center;
+    background-color: aquamarine;
 }
 
 p{
     font-size:25px;
     font-weight:bold;
+}
+
+body{
+    background-image: url("../images/paulsmith_20ss_men_14.jpg")
 }

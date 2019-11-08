@@ -4,13 +4,31 @@ h1{
     font-family:"impact";
     text-align: center;
     font-weight: bold;
-    
-p{
-    color:red;
-    font-weight: bold;
-}
+    background-color:azure;
 
 }
+
+h2{
+    color:blue;
+    font-size: 50px;
+    font-family:"impact";
+    text-align: center;
+    font-weight: bold;
+    background-color:aqua;
+}
+
+h3{
+    color:blue;
+    font-size: 50px;
+    font-family:"impact";
+    text-align: center;
+    font-weight: bold;
+    background-color:aqua;
+}
+    
 body{
-    background-image: url("../images/paulsmith_20ss_men_14.jpg")
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-image: url("../images/images%20(1).jfif")
 }
