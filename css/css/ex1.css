@@ -1,0 +1,20 @@
+h1{
+    color:white;
+    font-family:sans-serif;
+    text-align:center;
+    background-color:darkblue;
+}
+h2{
+    color:white;
+    text-align: center;
+    background-color: blueviolet;
+}
+body{
+    background-image: url("../images/images%20(1).jfif")
+}
+table{
+    background-color:fuchsia;
+}
+ol{
+    background-image: url("../images/images.jfif")
+}
