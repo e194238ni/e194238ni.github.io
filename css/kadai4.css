@@ -1,13 +1,32 @@
-h1{
-        color:blue;
-    font-size: 50px;
+h1.pinkcolor{
+    color:blue;
     font-family:"impact";
     text-align: center;
     font-weight: bold;
-    background-color:azure;  
+    background-color:pink;  
 }
+
 h2.blackcolor{
     text-align: center;
     color: white;
     background-color: black;
+}
+
+h2.whitecolor{
+    text-align: center;
+    color:black;
+    background-color:white;
+}
+
+h1.violetcolor{
+    color: blue;
+    background-color: violet;
+    text-align: center;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-image: url("../images/images%20(1).jfif")
 }
