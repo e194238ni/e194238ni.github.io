@@ -1,0 +1,83 @@
+div.titile{
+    width: 1000px;
+    height: 40px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: cadetblue;
+    font-family:"Impact";
+    margin-bottom: 20px;
+}
+
+div.haikei{
+    width: 1000;
+    height: 320;
+    background-color: azure;
+    margin-bottom: 20px;
+    font-size: 0;
+}
+
+div.menu{
+    display: inline-block;
+    width: 250;
+    height: 320;
+    background-color: aliceblue;
+    vertical-align: top;
+}
+
+div.image{
+    display: inline-block;
+    width: 700;
+    height: 320;
+    background-color: cadetblue;
+    vertical-align: top;
+    margin-left: 50px;    
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    background-color: antiquewhite;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    background-color: antiquewhite;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    font-size: 15px;
+    background-color: antiquewhite;
+}
+div.image1{
+    display:inline-block;
+    width: 700px;
+    height: 300px;
+    background-color:darkgray;
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+div.text{
+    width: 700px;
+    height: 20px;
+    background-color:darkkhaki;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color:cadetblue;
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    margin-top: 15px;
