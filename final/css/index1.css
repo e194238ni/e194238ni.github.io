@@ -1,0 +1,67 @@
+div.wrap{
+    width: 1000px;
+    height: 470px;
+    margin-bottom: 20px;
+    background-color: gainsboro;
+    margin: auto;
+    font-size: 0px;
+}
+header.title{
+    width: 1000px;
+    height: 50px;
+    background-color: white;
+    margin-bottom:20px;
+    font-size:40px;
+    text-align: center;
+    font-family:"Impact";
+    
+}
+
+div.menu{
+    display: inline-block;
+    width: 1000px;
+    height: 35px;
+    background-color: white;
+    vertical-align:top;
+    margin-bottom: 20px;
+}
+div.menu1{
+    margin-left: 22px;
+    display: inline-block;
+    width: 300px;
+    height: 35px;
+    background-color:white;
+    text-align: center;
+    font-size:25px;
+    font-family:"Verdana";    
+}
+
+div.images{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    background-color:gainsboro;
+    margin-bottom: 20px;
+}
+div.image{
+    vertical-align: top;
+    display:inline-block; 
+    width:630px;   
+    height:300pX; 
+    background-color:white;
+}
+div.text{
+    margin-left:50px;
+    display: inline-block;
+    width: 320px;
+    height: 300px;
+    background-color:white;
+    font-family: fantasy;
+    font-size: 17px;
+}
+footer.footer{
+    width: 1000px;
+    height: auto;
+    font-size: 20px;
+    background-color: white;
+}
